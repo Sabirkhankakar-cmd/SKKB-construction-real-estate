@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sabir Construction & Real Estate</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background: #004aad;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .container {
+      padding: 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+    .card {
+      background: white;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #004aad;
+      color: white;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sabir Construction & Real Estate</h1>
+    <p>Building Dreams, Crafting Realities</p>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <h2>Our Services</h2>
+      <p>Construction, Designing, Real Estate Sale & Purchase</p>
+    </div>
+
+    <div class="card">
+      <h2>Office Address</h2>
+      <p>Office #03, Rawalpindi Housing (PVT), LTD C-18</p>
+    </div>
+
+    <div class="card">
+      <h2>Contact Us</h2>
+      <p>Phone: +92 300 1234567</p>
+      <p>Email: info@sabirconstruction.com</p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 Sabir Construction & Real Estate. All Rights Reserved.
+  </footer>
+</body>
+</html>
